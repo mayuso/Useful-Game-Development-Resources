@@ -20,9 +20,10 @@
 * [Free3D](https://free3d.com/)
 * [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free)
 
-# 2D Sprites 
+# 2D Sprites and GUI
 
 * [Kenney](https://www.kenney.nl/)
+* [Flaticon](https://www.flaticon.es/)
 
 # Music and Sound Effects
 
