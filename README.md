@@ -15,6 +15,7 @@
 
 # 3D Models and Animations
 
+* [Poliigon](https://www.poliigon.com/)
 * [Kenney](https://www.kenney.nl/)
 * [CGTrader](https://www.cgtrader.com/)
 * [Free3D](https://free3d.com/)
