@@ -13,21 +13,25 @@
 * [SDL](https://www.libsdl.org/index.php) **(Open Source)**
 * [raylib](https://www.raylib.com/) **(Open Source)**
 
+# Various kinds of assets
+
+* [GameDevMarket](https://www.gamedevmarket.net)
+* [Kenney](https://www.kenney.nl/)
+
 # 3D Models and Animations
 
 * [Poliigon](https://www.poliigon.com/)
-* [Kenney](https://www.kenney.nl/)
 * [CGTrader](https://www.cgtrader.com/)
 * [Free3D](https://free3d.com/)
-* [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free)
+* [TurboSquid](https://www.turbosquid.com/)
 
 # 2D Sprites and GUI
 
-* [Kenney](https://www.kenney.nl/)
 * [Flaticon](https://www.flaticon.es/)
 
 # Music and Sound Effects
 
 * [Free SFX](https://www.freesfx.co.uk/sfx)
+* [Freesound](https://freesound.org/)
 
 
